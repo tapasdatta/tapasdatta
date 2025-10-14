@@ -1,8 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
 
-I'm Tapas Datta, a Senior Software Engineer rooted in the vibrant city of Dhaka. My days are immersed in the dynamic world of technology, specializing in the elegant languages of Erlang & Elixir. I pursued both a Bachelor's and Master's degree in Computer Science and Engineering. Passion for Software Architecture and AI runs deep in my veins.
-
-I also write 📝 [articles](https://tapasdatta.com) about Elixir, Erlang and Software Architecture on my blog site: https://tapasdatta.com.
+I'm Tapas Datta, a Senior Software Engineer rooted in the vibrant city of Berlin. My days are immersed in the dynamic world of technology, specializing in the languages of PHP & Golang. I pursued both a Bachelor's and Master's degree in Computer Science and Engineering. Passion for Software Architecture and AI runs deep in my veins.
 
 <!--
 **tapasdatta/tapasdatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
