@@ -10,3 +10,10 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 I live in Berlin, where I build full-stack products people rely on.
+
+---
+
+### 📝 Blog
+
+- [Building a PTO Calculator CLI in PHP](https://tapasdatta.com/articles/building-a-pto-calculator-cli-in-php)
+- [Refactoring the Gilded Rose Kata in PHP](https://tapasdatta.com/articles/refactoring-gilded-rose-kata-in-php)
