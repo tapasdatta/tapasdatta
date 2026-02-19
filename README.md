@@ -1,18 +1,12 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
+### Hi there, I'm Tapas! 👋
 
-I'm Tapas Datta, a Senior Software Engineer rooted in the vibrant city of Berlin. My days are immersed in the dynamic world of technology, specializing in the languages of PHP & Golang. I pursued both a Bachelor's and Master's degree in Computer Science and Engineering. Passion for Software Architecture and AI runs deep in my veins.
+📍 **Berlin** | 💻 **Senior Software Developer**
 
-<!--
-**tapasdatta/tapasdatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I live in Berlin, where I build full-stack products people rely on.
